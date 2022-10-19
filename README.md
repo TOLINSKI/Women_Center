@@ -6,5 +6,3 @@ I have made changes
 
 \n
 \n
-assadsadasdasdasdasdasdasdasdasd
-CHANGES CHANGES
