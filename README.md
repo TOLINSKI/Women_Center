@@ -7,4 +7,4 @@ I have made changes
 \n
 \n
 
-main changes
+class_example_changes
